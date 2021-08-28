@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/--0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-armstrong/)
 [![Github](https://img.shields.io/badge/--100000?logo=github&logoColor=white)](https://github.com/iacobo) 
 [![Stack Overflow](https://img.shields.io/badge/--FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9067615/iacob) 
+[![Google](https://img.shields.io/badge/--4285F4?logo=google&logoColor=white)](https://www.google.com/search?kgmid=/g/11ql8jhdbk)
 
 Hi, I'm Jacob, a Data Scientist and PhD student at Oxford University.
 
