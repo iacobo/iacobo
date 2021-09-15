@@ -9,4 +9,3 @@
 Hi, I'm Jacob, a Data Scientist and PhD student at Oxford University.
 
 My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic.
-
