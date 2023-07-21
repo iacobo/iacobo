@@ -11,4 +11,4 @@ Hi, I'm Jacob, a Data Scientist at Oxford University / the UK Health Security Ag
 
 My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic. I am currently a DPhil candidate at Oxford University.
 
-<a href="https://stackexchange.com/users/3559086/iacob"><img src="https://stackexchange.com/users/flair/3559086.png" width="208" height="58" alt="profile for iacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for iacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/3559086/iacob"><img src="https://stackexchange.com/users/flair/3559086.png?theme=clean" width="208" height="58" alt="profile for iacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for iacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
