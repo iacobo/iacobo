@@ -1,4 +1,10 @@
-<a align="center" href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange.com/users/flair/3559086.png?theme=clean" width="208" height="58" alt="Profile for iacob on Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for iacob on Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a>
+<!-- 
+<a align="center" href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange.com/users/flair/3559086.png?theme=clean" width="104" height="29" alt="Profile for iacob on Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for iacob on Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a>
+
+![some text to render if the image fails to load](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=9067615&period=year&mini=true)
+-->
+
+[![My flair](https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean)](https://stackoverflow.com/users/9067615/iacob)
 
 Hi, I'm Jacob, a Data Scientist at Oxford University / the UK Health Security Agency.
 
