@@ -10,19 +10,19 @@
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="35"></a>
-<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="35"></a>
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="35"></a>
-<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="35"></a>
-<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35"></a>
-</p>
-
-<p align="center">
 Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University / the UK Health Security Agency.
 </p>
 
 <p align="center">
 My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic. I am currently a DPhil candidate at Oxford University.
+</p>
+
+<p align="center">
+<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="35"></a>
+<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="35"></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="35"></a>
+<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="35"></a>
+<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35"></a>
 </p>
 
 <!-- 
@@ -33,9 +33,11 @@ My background is in maths, but my work over the past few years has focused on in
 <br>
 -->
 
+<!-- 
 <p align="center">
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="18px"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="18px" style="filter: grayscale(1);"/></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" height ="18px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" height ="18px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></a>
 <a href="https://www.microsoft.com/en-sg/sql-server" target="_blank"><img alt="MS SQL" height ="18px" src="https://tribes.agency/wp-content/uploads/2023/10/ext-550.png"></a>
 </p>
+-->
