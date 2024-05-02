@@ -23,15 +23,15 @@ My background is in maths, but my work over the past few years has focused on in
 </p>
 <br>
 
-<p align="center">
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean" width="300"></a>
-</p>
-
 <!-- 
 -->
 <p align="center">
-<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true" /></a>
-<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320" /></a>
+<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true&theme=transparent" /></a>
+<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320&theme=transparent" /></a>
+</p>
+
+<p align="center">
+<a href="https://stackoverflow.com/users/9067615/iacob"><img height=200 align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=9067615&period=year" /></a>
 </p>
 <br>
 
