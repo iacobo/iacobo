@@ -27,7 +27,7 @@ My background is in maths, but my work over the past few years has focused on in
 -->
 <p align="center">
 <a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true&theme=transparent" /></a>
-<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320&theme=transparent" /></a>
+<a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320&theme=transparent&langs_count=3" /></a>
 </p>
 
 <p align="center">
