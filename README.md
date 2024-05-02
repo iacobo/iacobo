@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean"></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean" width="300"></a>
 </p>
 
 <p align="center">
@@ -16,22 +16,24 @@ Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University / the UK Health Secu
 <p align="center">
 My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic. I am currently a DPhil candidate at Oxford University.
 </p>
+<br>
 
 <p align="center">
-<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="35"></a>
-<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="35"></a>
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="35"></a>
-<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="35"></a>
-<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35"></a>
+<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="50"></a>
+<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="50"></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="50"></a>
+<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50"></a>
+<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50"></a>
 </p>
+<br>
 
 <!-- 
+-->
 <p align="center">
 <a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true" /></a>
 <a href="https://github.com/iacobo"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320" /></a>
 </p>
 <br>
--->
 
 <!-- 
 <p align="center">
