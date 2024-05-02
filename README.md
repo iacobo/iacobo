@@ -6,8 +6,13 @@
 -->
 
 <p align="center">
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean" width="300"></a>
+<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="50"></a>
+<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="50"></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="50"></a>
+<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50"></a>
+<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50"></a>
 </p>
+<br>
 
 <p align="center">
 Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University / the UK Health Security Agency.
@@ -19,13 +24,8 @@ My background is in maths, but my work over the past few years has focused on in
 <br>
 
 <p align="center">
-<a href="https://www.google.com/search?kgmid=%2Fg%2F11f0xqs8r5"><img src="https://freemiumicons.com/wp-content/uploads/2022/04/google-search-icon.svg" width="50"></a>
-<a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="50"></a>
-<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="50"></a>
-<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50"></a>
-<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50"></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://stackexchange-stats-flair.juanmi.rocks/?site=stackoverflow&user_id=9067615&theme=clean" width="300"></a>
 </p>
-<br>
 
 <!-- 
 -->
