@@ -26,13 +26,15 @@ My background is in maths, but my work over the past few years has focused on in
 <!-- 
 -->
 <p align="center">
-<a href="https://github.com/iacobo"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true&theme=transparent&hide_rank=true" /></a>
-<a href="https://github.com/iacobo"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320&theme=transparent&langs_count=3&include_all_commits=true" /></a>
-<a href="https://stackoverflow.com/users/9067615/iacob"><img height=180 align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=9067615&period=year" /></a>
+<a href="https://stackoverflow.com/users/9067615/iacob"><img height=160 align="center" src="https://stackoverflow-badge.herokuapp.com/stackoverflow?username=9067615&period=year" /></a>
 </p>
 <br>
 
 <!-- 
+
+<a href="https://github.com/iacobo"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iacobo&show_icons=true&include_all_commits=true&theme=transparent&hide_rank=true" /></a>
+<a href="https://github.com/iacobo"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacobo&hide=jupyter%20notebook&card_width=320&theme=transparent&langs_count=3&include_all_commits=true" /></a>
+
 <p align="center">
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="18px" style="filter: grayscale(1);"/></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" height ="18px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
