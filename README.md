@@ -14,7 +14,7 @@
 <a href="https://scholar.google.com/citations?user=n7w5h6oAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="35"></a>
 <a href="https://stackoverflow.com/users/9067615/iacob"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg" width="35"></a>
 <a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="35"></a>
-<a href="https://github.com/iacobo"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35"></a>
+<a href="https://uk.linkedin.com/in/jacob-armstrong"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35"></a>
 </p>
 
 <p align="center">
