@@ -23,10 +23,11 @@ My background is in maths, but my work over the past few years has focused on in
 </p>
 <br>
 
-<p align="center">
-<a><img src="https://i.imgur.com/LLgsK46.png"></a>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/TUoV5To.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/LLgsK46.png">
+  <img alt="Working day and night." src="https://i.imgur.com/LLgsK46.png">
+</picture>
 
 <p align="center">
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="30px" style="filter: grayscale(1);"/></a>
