@@ -13,6 +13,10 @@
 
 -->
 
+#### [Audio Series](/recs/audio)   [Short Stories](/recs/stories)   [Novels](/recs/novels)
+
+---
+
 <p align="center">
 Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University.
 </p>
