@@ -13,7 +13,7 @@
             <a href="https://iacobo.github.io/"><b>[j]</b></a>
             <a href="https://iacobo.github.io/recs/important">Read</a>
             <a href="https://iacobo.github.io/recs/media">Fun</a>
-            <a href="https://iacobo.github.io/iffley/home">Proj</a>
+            <a href="https://iacobo.github.io/recs/proj">Proj</a>
             <strike><a href="https://iacobo.github.io/recs/tech">Google</a></strike>
         </h4>
     </nav>
