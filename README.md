@@ -8,20 +8,22 @@
 </head>
 
 <body>
+
+<h1 align=center><a href="https://techforpalestine.org/learn-more" align="center">🇵🇸 Call for a #CeasefireNOW 🇵🇸</a></h1>
     <nav>
-        <h4>
+        <strike><h4>
             <a href="https://iacobo.github.io/"><b>[j]</b></a>
             <a href="https://iacobo.github.io/recs/important">Read</a>
             <a href="https://iacobo.github.io/recs/media">Fun</a>
             <a href="https://iacobo.github.io/recs/proj">Proj</a>
             <strike><a href="https://iacobo.github.io/recs/tech">Google</a></strike>
-        </h4>
+        </h4></strike>
     </nav>
     <hr />
 
-  <p>Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University.</p>
+  <strike><p>Hi, I'm <b>Jacob</b>, a Data Scientist at Oxford University.</p>
   <p>My background is in maths, but my work over the past few years has focused on infectious disease epidemiology,
-      most recently the COVID-19 pandemic.</p>
+      most recently the COVID-19 pandemic.</p></strike>
 
   <p align="center">
       <br>
