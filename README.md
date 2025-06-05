@@ -8,8 +8,7 @@
 </head>
 
 <body>
-
-<h1 align=center><a href="https://techforpalestine.org/learn-more" align="center">🇵🇸 Call for a #CeasefireNOW 🇵🇸</a></h1>
+<h1 align=center>🕊️<br><a href="https://techforpalestine.org/learn-more" align="center">🇵🇸 Call for a #CeasefireNOW 🇵🇸</a><br>🕊️</h1>
     <nav>
         <strike><h4>
             <a href="https://iacobo.github.io/"><b>[j]</b></a>
@@ -35,7 +34,7 @@
                 src="https://images.ctfassets.net/6sxvmndnpn0s/1qQWlJLKM5rpZHETE32eLX/fc3c1d9f75930f9f5e4d4d0754806ec7/logo--d-england.png" /></a>
         &nbsp;
         <a href="https://www.pcrf.net/" target="_blank"><img alt="PCRF" height="60px"
-                src="https://github.com/iacobo/iacobo.github.io/raw/main/assets/logos/pcrf.svg?raw=true" /></a> <br />
+                src="https://github.com/iacobo/iacobo.github.io/raw/main/assets/logos/pcrf.svg?raw=true" /></a> <br>
       <br>
       <br>
       <br>
