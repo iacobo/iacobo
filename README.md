@@ -19,7 +19,7 @@
 <hr>
   <footer>
     <div align="center">
-      <a href="https://www.govegan.org.uk/why-go-vegan/" style="color: #29bf12;"><img alt="Go vegan!" height="350px" src="https://www.pngall.com/wp-content/uploads/8/Vegan-Logo-PNG-Clipart.png" /></a>
+      <a href="https://www.govegan.org.uk/why-go-vegan/" style="color: #29bf12;"><img alt="Go vegan!" height="90px" src="https://ged.codeberg.page/assets/logos/govegan.png?raw=true" /></a>
       <p> There is so much horror in our world we might feel powerless to stop, but by simply choosing vegan food for your next meal you can save <i>real lives</i> every day! 🌱</p>
       <p>It's such an easy change to make, those animals' lives are worth it!</p>
     </div>
